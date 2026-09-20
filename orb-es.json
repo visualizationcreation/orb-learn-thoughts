@@ -1,0 +1,351 @@
+{
+  "content": {
+    "contentVersion": 2,
+    "title": "Un pensamiento no es una sentencia",
+    "scope": "Un poco más de espacio · Ocho lecturas educativas breves con prácticas cotidianas opcionales. No son diagnóstico ni tratamiento.",
+    "visualQuery": "everyday mental wellbeing",
+    "intent": {
+      "subject": "Un pensamiento no es una sentencia",
+      "direction": "Explore a practical psychological perspective with ordinary examples and realistic limits.",
+      "perspective": "Public education; gentle, optional practices without clinical promises.",
+      "origins": {
+        "subject": "stated",
+        "direction": "inferred",
+        "perspective": "inferred"
+      }
+    },
+    "form": "explore",
+    "axes": {
+      "x": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "y": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      },
+      "z": {
+        "negative": "",
+        "positive": "",
+        "active": false,
+        "reason": "These practical steps do not imply a geographic or chronological axis."
+      }
+    },
+    "readings": [
+      {
+        "id": "orb-learn-thoughts-p01",
+        "label": "El momento y la interpretación",
+        "text": "Un amigo no ha respondido tu mensaje. Eso es una observación. Pensar que ya no le agradas es una interpretación. Ambas pueden parecer igual de convincentes, pero no son lo mismo.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Un amigo no ha respondido tu mensaje. Eso es una observación. Pensar que ya no le agradas es una interpretación. Ambas pueden parecer igual de convincentes, pero no son lo mismo.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "The moment and the story",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "Introduction to the practice.",
+        "parent": -1,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-thoughts-p02",
+        "label": "Separa lo que sabes",
+        "text": "Describe solo lo que sabes: enviaste el mensaje y aún no hay respuesta. Después, observa lo que añadió tu mente. Esta pequeña distinción abre espacio para examinar esa interpretación.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Describe solo lo que sabes: enviaste el mensaje y aún no hay respuesta. Después, observa lo que añadió tu mente. Esta pequeña distinción abre espacio para examinar esa interpretación.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Separate what you know",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-thoughts-p03",
+        "label": "La emoción sigue importando",
+        "text": "La incertidumbre puede doler. Examinar un pensamiento no significa descartar tu tristeza o ansiedad. Puedes reconocer la emoción y seguir preguntándote si la explicación que encontraste es acertada.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "La incertidumbre puede doler. Examinar un pensamiento no significa descartar tu tristeza o ansiedad. Puedes reconocer la emoción y seguir preguntándote si la explicación que encontraste es acertada.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "The feeling still matters",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-thoughts-p04",
+        "label": "Busca otra explicación",
+        "text": "¿Qué pruebas apoyan ese pensamiento y cuáles faltan? Quizá tu amigo esté ocupado o necesite tiempo. Las alternativas son posibilidades que puedes considerar, no nuevos hechos que debas creer.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "¿Qué pruebas apoyan ese pensamiento y cuáles faltan? Quizá tu amigo esté ocupado o necesite tiempo. Las alternativas son posibilidades que puedes considerar, no nuevos hechos que debas creer.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Look for another explanation",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-thoughts-p05",
+        "label": "Prueba una frase más justa",
+        "text": "Una frase equilibrada sería: No sé por qué no ha respondido. Puedo esperar o preguntar más tarde. La meta es pensar con precisión y flexibilidad, no forzarte a ser positivo.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Una frase equilibrada sería: No sé por qué no ha respondido. Puedo esperar o preguntar más tarde. La meta es pensar con precisión y flexibilidad, no forzarte a ser positivo.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Try a fairer sentence",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-thoughts-p06",
+        "label": "Elige una respuesta útil",
+        "text": "Podrías enviar un mensaje breve, volver a tu trabajo o hacer otro plan. Pregúntate qué acción encaja con la situación. No necesitas una certeza absoluta para dar un paso cotidiano.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Podrías enviar un mensaje breve, volver a tu trabajo o hacer otro plan. Pregúntate qué acción encaja con la situación. No necesitas una certeza absoluta para dar un paso cotidiano.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Choose a useful response",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-thoughts-p07",
+        "label": "No tienes que debatir sin fin",
+        "text": "A veces, discutir con un pensamiento crea otro círculo. Puedes notar que tu mente vuelve a contar esa historia y regresar a lo que estás haciendo. No es lo mismo que demostrar que está equivocado.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "A veces, discutir con un pensamiento crea otro círculo. Puedes notar que tu mente vuelve a contar esa historia y regresar a lo que estás haciendo. No es lo mismo que demostrar que está equivocado.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "You do not have to debate forever",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      },
+      {
+        "id": "orb-learn-thoughts-p08",
+        "label": "Respeta la realidad y busca apoyo",
+        "text": "Replantear una idea nunca debe justificar el maltrato ni el peligro. Los problemas reales pueden necesitar medidas y apoyo. Estas habilidades ofrecen opciones, no un diagnóstico ni un sustituto de la atención profesional.",
+        "kind": "interpretation",
+        "speaker": "",
+        "learn": "Replantear una idea nunca debe justificar el maltrato ni el peligro. Los problemas reales pueden necesitar medidas y apoyo. Estas habilidades ofrecen opciones, no un diagnóstico ni un sustituto de la atención profesional.",
+        "visualQuery": "everyday wellbeing",
+        "visualBrief": {
+          "subject": "Respect reality and get support",
+          "context": "An everyday illustration of this optional practice.",
+          "role": "example",
+          "avoid": "Diagnosis, promises of treatment, documentary claims."
+        },
+        "coordinates": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "placementReason": "A practical elaboration of the introductory perspective.",
+        "parent": 0,
+        "next": -1
+      }
+    ],
+    "edges": [
+      {
+        "from": "orb-learn-thoughts-p01",
+        "to": "orb-learn-thoughts-p02",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-thoughts-p01",
+        "to": "orb-learn-thoughts-p03",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-thoughts-p01",
+        "to": "orb-learn-thoughts-p04",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-thoughts-p01",
+        "to": "orb-learn-thoughts-p05",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-thoughts-p01",
+        "to": "orb-learn-thoughts-p06",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-thoughts-p01",
+        "to": "orb-learn-thoughts-p07",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      },
+      {
+        "from": "orb-learn-thoughts-p01",
+        "to": "orb-learn-thoughts-p08",
+        "relation": "elaborates",
+        "reason": "A concrete practice, example, or limitation of the opening perspective.",
+        "basis": "interpretation"
+      }
+    ],
+    "speakers": [],
+    "seam": {
+      "title": "",
+      "text": "",
+      "readings": []
+    },
+    "theme": {
+      "accent": "mist",
+      "atmosphere": "Warm ivory readings in the Orbiversity sunset studio."
+    },
+    "courseOrder": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "neighbors": [],
+    "sources": [
+      {
+        "title": "Reframing unhelpful thoughts",
+        "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/reframing-unhelpful-thoughts/",
+        "publisher": "www.nhs.uk",
+        "readings": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "title": "Doing What Matters in Times of Stress",
+        "url": "https://www.who.int/publications-detail-redirect/9789240003927",
+        "publisher": "www.who.int",
+        "readings": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "language": "es",
+  "museum": {
+    "attribution": "anonymous",
+    "category": "Wellbeing",
+    "tags": [
+      "mental health",
+      "ORB Learn"
+    ],
+    "library": [
+      {
+        "title": "Reframing unhelpful thoughts",
+        "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/reframing-unhelpful-thoughts/",
+        "type": "website"
+      },
+      {
+        "title": "Doing What Matters in Times of Stress",
+        "url": "https://www.who.int/publications-detail-redirect/9789240003927",
+        "type": "website"
+      }
+    ]
+  },
+  "reaches": []
+}
